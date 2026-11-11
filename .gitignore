@@ -1,0 +1,8 @@
+target/
+dados/
+exportacoes/
+.idea/
+.settings/
+.classpath
+.project
+*.log
